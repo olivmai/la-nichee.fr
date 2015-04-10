@@ -6,6 +6,7 @@ Front : HTML5/CSS3/Javascript (librairie JQuery) -> Framework Bottstrap 3
 Back : PHP (procédural) -> Simplement utilisé pour générer le contenu dynamiquement à partir de index.php et pour la gestion du formulaire de contact.  
 
 Changelog :  
+v3.2 (à venir) : MAJ importante avec traduction du site en anglais et adaptation du code en conséquence.
 v3.1 (2015.04.10) : Correction de bugs d'affichage mineurs sur le header et page d'acceuil en mode responsive. Suppression du backgroun-image du margin-bootom (container) et ajout span "menu" pour le menu responsive.  
 v3 : Mise à jour des contenus et refonte du site avec Bootstrap et formulaire de contact. Upload - Mars 2015  
 
