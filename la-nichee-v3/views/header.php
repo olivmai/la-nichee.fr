@@ -19,6 +19,7 @@
       <span class="icon-bar"></span>                        
     </button>
     <a href="index.php" class="navbar-brand">La nichée</a>
+    <span class="navbar-brand">Menu</span>
   </div>
   <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav">

@@ -57,6 +57,9 @@ body{
 	background-color: #00335a;
 	transition: background-color 0.5s;
 }
+span.navbar-brand{
+	display: none;
+}
 /* --- HOME --- */
 #carousel{
 	margin-top: 0px;
@@ -358,7 +361,9 @@ footer .fa-stack a:visited{
 --- Styles pour les smartphones --
 ---------------------------------*/
 @media (max-width: 768px) {
-
+	.container{
+		margin-bottom: 0;
+	}
 	.tarif-h3{
 		line-height: 80px;
 	}
@@ -380,8 +385,9 @@ footer .fa-stack a:visited{
 		margin-bottom: 30px;
 	}
 	.resume-item{
-		height: 250px;
+		height: auto;
 		margin-bottom: 30px;
+		overflow: auto;
 	}.resume-btn{
 		display: none;
 	}.resume-p>.fa-calendar{
@@ -395,9 +401,6 @@ footer .fa-stack a:visited{
 	#carousel{
 		display: none;
 	}
-	/*.main-title{
-		margin-top: -20px;
-	}*/
 	.row-marches img{
 		height: auto;	
 	}
@@ -407,12 +410,24 @@ footer .fa-stack a:visited{
 	footer.row{
 		margin-top: 0;
 	}
+	.page-header{
+		background-image: none;		
+		margin-top: -10px;
+	}
 	.page-header h1{
 		margin-top: 0;
 		line-height: 0.8em;
+		padding-left: 5px;
 	}
-	.navbar-brand a:before{
-		content: "La nichée";
+	a.navbar-brand{
+		display: none;
+	}
+	.navbar-default .navbar-header span.navbar-brand{
+		display: inline-block;
+		color: #fff;
+	}
+	a.navbar-brand::after{
+		content: "Menu";
 	}
 }
 
