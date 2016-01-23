@@ -74,7 +74,7 @@
 
   <div class="row text-center xdndev">
     <div class="col-md-12">
-      <p><small>2015 - XDN Development, copyrights. <a href="/mentions-legales.html">Legal notice</a> | <a href="controller/changeLanguage.php?lang=fr" data-toggle="tooltip" data-placement="top" title="Français">FR</a> - <a href="controller/changeLanguage.php?lang=en" data-toggle="tooltip" data-placement="top" title="English">EN</a></small></p>
+      <p><small>2015 - XDN Development, copyrights. <a href="/mentions-legales.html">Legal notice</a> | <a href="controller/changeLanguage.php?lang=fr" data-toggle="tooltip" data-placement="top" title="Français" class="lang">FR</a> - <a href="controller/changeLanguage.php?lang=en" data-toggle="tooltip" data-placement="top" title="English" class="lang">EN</a></small></p>
     </div>
   </div>
 

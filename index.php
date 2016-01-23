@@ -161,4 +161,6 @@
 
   }
 
+  include 'view/default/template_end.php';
+
 ?>

@@ -16,6 +16,8 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
     <link type="text/css" href="asset/css/style.css" rel="stylesheet"/>
     <link type="text/css" href="asset/css/lightGallery.css" rel="stylesheet"/>
+    <link type="text/css" href="asset/css/jPushMenu.css" rel="stylesheet"/>
+    <link type="text/css" href="asset/css/responsive-menu.css" rel="stylesheet"/>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
