@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <title><?php 
+    <title><?php
 
       include('controlers/title.php');
 
@@ -26,7 +26,7 @@
   <body>
 
     <?php include_once("analyticstracking.php") ?>
-    
+
     <div class="container">
 
       <?php
@@ -92,7 +92,7 @@
               case 'mentions-legales':
                 include('views/mentions-legales.php');
                 break;
-              
+
               default:
                 include('views/accueil.php');
                 break;

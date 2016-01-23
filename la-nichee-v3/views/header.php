@@ -18,7 +18,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>                        
     </button>
-    <a href="index.php" class="navbar-brand">La nichée</a>
+    <a href="index.php" class="navbar-brand">Accueil</a>
     <span class="navbar-brand">Menu</span>
   </div>
   <div class="collapse navbar-collapse" id="myNavbar">
