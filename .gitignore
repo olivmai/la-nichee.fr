@@ -4,3 +4,5 @@ robots.txt
 google81cda0a1cc9a511c.html
 .htaccess
 sitemap.txt
+controller/envoiMail.php
+phpMailer
