@@ -5,7 +5,7 @@
 
   <div class="row">
 
-    <form action="envoiMail.php" method="post" class="col-md-offset-3 col-md-6 col-sm-offset-1 col-sm-10 well">
+    <form action="controller/envoiMail.php" method="post" class="col-md-offset-3 col-md-6 col-sm-offset-1 col-sm-10 well">
 
       <h3>Send us a message :</h3>
 

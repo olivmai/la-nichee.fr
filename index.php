@@ -65,7 +65,7 @@
         break;
 
         case 'mentions-legales':
-        include 'view/legal/mentions-legales-eng.php';
+        include 'view/legal/mentions-legales.php';
         break;
 
         default:

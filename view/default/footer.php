@@ -74,7 +74,7 @@
 
   <div class="row text-center xdndev">
     <div class="col-md-12">
-      <p><small>2015 - XDN Development, tous droits réservés. <a href="/mentions-legales.html">Mentions légales</a> | <a href="controller/changeLanguage.php?lang=fr" data-toggle="tooltip" data-placement="top" title="Français" class="lang">FR</a> - <a href="controller/changeLanguage.php?lang=en" data-toggle="tooltip" data-placement="top" title="English" class="lang">EN</a></small></p>
+      <p><small>2015 - XDN Development, tous droits réservés. <a href="/mentions-legales.html">Mentions légales</a> | <a href="controller/changeLanguage.php?lang=fr" data-toggle="tooltip" data-placement="top" title="Français" class="lang">FR</a> - <a href="controller/changeLanguage.php?lang=en" data-toggle="tooltip" data-placement="top" title="English" class="lang">EN</a></small> | Notre annonce sur le site <a target="_blank" href="http://www.a-gites.com/normandie/barneville-carteret/la-nichee-an8213.html"><strong>a-gite</strong></a></p>
     </div>
   </div>
 

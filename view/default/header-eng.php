@@ -1,5 +1,5 @@
 <header class="page-header">
-  <div id="responsive-button" class="visible-xs visible-sm toggle-menu menu-left push-body">
+  <div id="responsive-button" class="visible-xs toggle-menu menu-left push-body">
 	<span></span>
 	<span></span>
 	<span></span>
